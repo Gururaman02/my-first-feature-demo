@@ -1,1 +1,4 @@
-Hello Dr. Gururaman Tripurari Nagarajan Phd.
+Hello Myself Gururaman Tripurari Nagarajan B.Tech,M.Sc(pursuing).
+I am starting with my project today 19-02-2026.
+I have one year and one month experience at Tata Consultancy Services I worked as System engineer with 7lpa.After my 1st month training I was alligned with front end team. I was  part of 1st Project Integration(PI) and then I was moved to back end team. I worked as back end for 8 months. I worked on various APIs(Quote inquiry,Experience API,Quote management,Product Inquiry) each focuses on handling UI integration, managing storing at back end  and retrieving and displaying at web page.
+I have joined National college of Ireland out of my passion towards data and previously i was working on jupyter notebook and I am starting with vscode integration with github.
